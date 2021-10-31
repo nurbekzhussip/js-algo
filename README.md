@@ -1,2 +1,6 @@
 # js-algo
-JavaScript
+
+Algorithm and data structure guide
+
+
+
