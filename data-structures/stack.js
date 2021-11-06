@@ -1,3 +1,5 @@
+//LIFO
+
 var isValid = function (s) {
   let stack = [];
   let arr = s.split("");
