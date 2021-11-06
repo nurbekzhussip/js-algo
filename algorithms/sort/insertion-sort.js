@@ -13,4 +13,4 @@ function insertionSort(arr, compare = defaultCompare) {
   return arr;
 }
 
-//Временная сложность в наилучшем случае — O(N), в наихудшем — O(N^2).
+//Временная сложность в наилучшем случае — O(N), в наихудшем — O(N^2)
